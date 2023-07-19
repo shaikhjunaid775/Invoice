@@ -127,7 +127,7 @@ export class InvoiceForm extends Component {
                   </span>{" "}
                   <div className="d-flex flex-row align-items-center">
                     <span className="fw-bold me-2">
-                      Invoice & nbsp; Number: & nbsp;{" "}
+                      Invoice &nbsp; Number: &nbsp;{" "}
                     </span>{" "}
                     <input
                       type="tel"
